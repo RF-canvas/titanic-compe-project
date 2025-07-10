@@ -1,5 +1,5 @@
 # Titanic Random Forest Project　
-タイタニック号生存予測プロジェクト
+# タイタニック号生存予測プロジェクト
 This repository contains a solution to the Titanic survival prediction challenge using Random Forest, as part of the GCI course project.
 このリポジトリは、GCIプロジェクトの課題の一環として、ランダムフォレストを用いたタイタニック生存予想チャレンジへの解答を含んでいます。
 
