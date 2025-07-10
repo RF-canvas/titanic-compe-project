@@ -45,3 +45,14 @@ In this project I use the data from [Kaggle Titanic Competition](https://www.kag
 ## 注記
 This project was created for learning purposes under the GCI curriculum. The code is readable and reproducible.
 このプロジェクトは、GCIカリキュラムにおける学習目的で作成されました。コードは可読性が高く、再現可能な構成になっています。
+
+## Kaggle Submission Result
+
+- This notebook was submitted to the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic).
+- The model achieved a public score of **0.77033**.
+## Kaggle提出結果 / Kaggle Submission Result
+
+このノートブックは [KaggleのTitanicコンペ](https://www.kaggle.com/competitions/titanic) に提出され、
+公開スコアとして **0.77033** を記録しました。
+
+This notebook was submitted to the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic), achieving a public score of **0.77033**.
