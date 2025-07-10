@@ -1,4 +1,4 @@
-# Titanic Random Forest Project
+# Titanic Random Forest Project　タイタニックチャレンジ
 This repository contains a solution to the Titanic survival prediction challenge using Random Forest, as part of the GCI course project.
 このリポジトリは、GCIプロジェクトの課題の一環として、ランダムフォレストを用いたタイタニック生存予想チャレンジへの解答を含んでいます。
 
@@ -20,7 +20,6 @@ This repository contains a solution to the Titanic survival prediction challenge
   - Data preprocessing & cleaning
   - データの前処理及びクレンジング
   - Exploratory Data Analysis (EDA)
-  - EDA
   - Feature engineering (e.g. age imputation, title extraction)
   - 特徴量エンジニアリング(例：年齢の補完)
   - Model evaluation using cross-validation
