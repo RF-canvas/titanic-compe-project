@@ -56,4 +56,4 @@ This project was created for learning purposes under the GCI curriculum. The cod
 公開スコアとして **0.77033** を記録しました。
 
 This notebook was submitted to the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic), achieving a public score of **0.77033**.
-<img width="1919" height="323" alt="Image" src="https://github.com/user-attachments/assets/52794b95-dfce-4aa0-8373-129c2cc9debf" />
+<img width="964" height="518" alt="Image" src="https://github.com/user-attachments/assets/58e008a6-8550-4f50-93ac-c16353c8bc93" />
