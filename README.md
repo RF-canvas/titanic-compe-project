@@ -1,10 +1,11 @@
-# Titanic Random Forest Project　タイタニック号生存予測プロジェクト
+# Titanic Random Forest Project　
+タイタニック号生存予測プロジェクト
 This repository contains a solution to the Titanic survival prediction challenge using Random Forest, as part of the GCI course project.
 このリポジトリは、GCIプロジェクトの課題の一環として、ランダムフォレストを用いたタイタニック生存予想チャレンジへの解答を含んでいます。
 
 ## How to obtain deta
 ## データの取得方法
-## In this project I use the data from [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic]
+In this project I use the data from [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic]
 このプロジェクトでは [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic) のデータを使用しています。
 
 
